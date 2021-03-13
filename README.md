@@ -1,2 +1,2 @@
-# C20
-writing self algo
+# p5.play-boilerplate
+Boiler plate for p5.play
